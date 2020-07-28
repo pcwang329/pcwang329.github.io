@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Pochin Wang</title>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
+  
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2020-07-28T23:24:46Z</updated>
+  <author>
+    <name>Pochin Wang</name>
+    <email>pcwang329@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2020 Pochin Wang. All rights reserved.</rights>
+  
+
+</feed>

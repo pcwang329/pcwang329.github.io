@@ -1,1 +1,17 @@
 ---
+layout: home
+---
+
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+	  </div>
+	  <h3>I'm <strong>{{ site.author }}</strong>, a master’s student in the Computer Science</h3>
+	  <h3>department at the National Sun Yat-sen University, Taiwan.</h3>
+	  <h3>My research focuses on discriminatively trained representations</h3>
+	  <h3>for speaker verification and identification.</h3>
+	  <h3>Contact me by <a href="mailto:{{ site.email }}">email</a>.</h3>
+	  {% include social.html %}
+	</div>
+</section>
