@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://pcwang329.github.io/
-baseurl: /pcwang329/
+url: "https://pcwang329.github.io/"
+baseurl: ""
 title: Pochin Wang
 author: Pochin Wang
 description: Personal website
